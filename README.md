@@ -7,3 +7,4 @@
 ## duckweed wine
 * A green and leafy wine. Will be probably easier if you manage to get a second duckweed tank going. 
 * Adapt your recipe from the [tree leaf wine recipes](https://www.permaculture.co.uk/readers-solutions/how-make-tree-leaf-wines). 
+* Or possibly Jack Keller's [oak leaf wine recipe](http://winemaking.jackkeller.net/oakleaf.asp)
