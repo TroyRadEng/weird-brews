@@ -11,3 +11,6 @@
 
 ## freegan wine
 * wine made out of bananas or other fruits obtained through... you know... freegan means
+
+## winebucha
+* brew kombucha.  add campden.  add sugar.  add yeast.
