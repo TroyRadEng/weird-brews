@@ -9,3 +9,15 @@
 
 ## winebucha
 * brew kombucha.  add campden.  add sugar.  add yeast.
+
+## s'more moore
+* wheat beer (a dark wheat recipe... maybe weizenbock)
+* brown sugar
+* molasses
+* cinammon
+* use chocolate malt along with regular malt
+* hot chocolate packets
+
+## elderflower/elderberry wine
+* these probably grow in the troy area
+* figure out where they are
